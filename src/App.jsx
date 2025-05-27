@@ -11,7 +11,7 @@ import DashTable from "./Bundle/DashTop/DashTop";
 import 'antd/dist/reset.css';  
 // import Dot1 from "./Scroll/Dot1";
 import Opcodes from "./Operater/Opcodes";
-import AddOpcode from "./Operater/AddOpcode";
+import AddOpcode from "./Operater/Addopcode";
 import Home_Page from "./Dashboard/Home_Page";
 import Login_pg from "./Login/Login_pg"
 // import Simp from "./TEST/Simp";
